@@ -1,1 +1,1 @@
-MultiThreaded HTTP Server
+HTTP Sockets Multi Client Server
